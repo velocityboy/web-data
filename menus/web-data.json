@@ -1,0 +1,39 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Web Data",
+        "submenu": [
+          {
+            "label": "URL decode",
+            "command": "web-data:url-decode"
+          },
+          {
+            "label": "URL encode",
+            "command": "web-data:url-encode"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Web Data",
+          "submenu": [
+            {
+              "label": "URL decode",
+              "command": "web-data:url-decode"
+            },
+            {
+              "label": "URL encode",
+              "command": "web-data:url-encode"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
