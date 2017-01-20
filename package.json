@@ -1,10 +1,9 @@
 {
   "name": "web-data",
   "main": "./lib/web-data",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Conversions between common web data formats",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": [
       "web-data:url-decode",
@@ -16,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
