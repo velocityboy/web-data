@@ -11,6 +11,14 @@
           {
             "label": "URL encode",
             "command": "web-data:url-encode"
+          },
+          {
+            "label": "JSON pretty print",
+            "command": "web-data:json-prettyprint"
+          },
+          {
+            "label": "Split URL query parameters",
+            "command": "web-data:split-query-params"
           }
         ]
       }
@@ -30,6 +38,14 @@
             {
               "label": "URL encode",
               "command": "web-data:url-encode"
+            },
+            {
+              "label": "JSON pretty print",
+              "command": "web-data:json-prettyprint"
+            },
+            {
+              "label": "Split URL query parameters",
+              "command": "web-data:split-query-params"
             }
           ]
         }

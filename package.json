@@ -7,7 +7,9 @@
   "activationCommands": {
     "atom-workspace": [
       "web-data:url-decode",
-      "web-data:url-encode"
+      "web-data:url-encode",
+      "web-data:json-prettyprint",
+      "web-data:split-query-params"
     ]
   },
   "repository": "https://github.com/velocityboy/web-data",
@@ -15,5 +17,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "atom-message-panel": "^1.2.7"
+  }
 }
