@@ -1,3 +1,5 @@
+@import 'ui-variables';
+
 .web-data-editor {
   margin-top: 3px;
   margin-bottom: 8px;
@@ -7,12 +9,27 @@
   margin-right: 12px;
 }
 
-.web-data-button {
-
-}
-
 .web-data-button-bar {
   margin-top: 3px;
   display: flex;
   flex-direction: row-reverse;
+}
+
+.web-data-select {
+  width: 100%;
+  color: @text-color;
+  border-color: @button-border-color;
+  background-color: @button-background-color;
+  &:hover,
+  &:focus {
+    box-shadow: none;
+    background-color: @button-background-color-hover;
+  }
+}
+
+.web-data-select-container {
+  display: flex;
+  align-items: stretch;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
