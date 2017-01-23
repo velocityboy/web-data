@@ -46,6 +46,10 @@
             {
               "label": "Split URL query parameters",
               "command": "web-data:split-query-params"
+            },
+            {
+              "label": "Execute HTTP request",
+              "command": "web-data:do-request"
             }
           ]
         }

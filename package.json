@@ -9,7 +9,8 @@
       "web-data:url-decode",
       "web-data:url-encode",
       "web-data:json-prettyprint",
-      "web-data:split-query-params"
+      "web-data:split-query-params",
+      "web-data:do-request"
     ]
   },
   "repository": "https://github.com/velocityboy/web-data",
@@ -18,6 +19,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-message-panel": "^1.2.7"
+    "atom-message-panel": "^1.2.7",
+    "request": "^2.79.0"
   }
 }
