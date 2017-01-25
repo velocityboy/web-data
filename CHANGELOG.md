@@ -4,3 +4,6 @@
 ## 0.2.0 - Add formats
 * Split query parameters from end of URL
 * Pretty-print JSON
+
+## 0.3.0 - Add HTTP request dialog
+* Send GET/POST requests and save the results for editing
