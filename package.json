@@ -1,7 +1,7 @@
 {
   "name": "web-data",
   "main": "./lib/web-data",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Conversions between common web data formats",
   "keywords": [],
   "activationCommands": {
