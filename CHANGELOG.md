@@ -7,3 +7,6 @@
 
 ## 0.3.0 - Add HTTP request dialog
 * Send GET/POST requests and save the results for editing
+
+## 0.4.0 - Base64
+* Add support for encoding or decoding the current selection as base64
