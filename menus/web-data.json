@@ -13,6 +13,14 @@
             "command": "web-data:url-encode"
           },
           {
+            "label": "Base 64 decode",
+            "command": "web-data:base64-decode"
+          },
+          {
+            "label": "Base 64 encode",
+            "command": "web-data:base64-encode"
+          },
+          {
             "label": "JSON pretty print",
             "command": "web-data:json-prettyprint"
           },
@@ -38,6 +46,14 @@
             {
               "label": "URL encode",
               "command": "web-data:url-encode"
+            },
+            {
+              "label": "Base 64 decode",
+              "command": "web-data:base64-decode"
+            },
+            {
+              "label": "Base 64 encode",
+              "command": "web-data:base64-encode"
             },
             {
               "label": "JSON pretty print",
