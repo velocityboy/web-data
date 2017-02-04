@@ -10,3 +10,7 @@
 
 ## 0.4.0 - Base64
 * Add support for encoding or decoding the current selection as base64
+
+## 0.5.0 - Nicer formatting for HTTP response data
+* Response data now presented in a formatted page, with buttons to do
+the transforms commonly used on body data

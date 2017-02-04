@@ -1,5 +1,6 @@
 # web-data package
 
-This atom package implements commands that encode or decode the selection
-according to common web data formats such as URL encoding. It also supports
-sending HTTP requests and saving the results in a buffer.
+With this package, you can send HTTP requests from inside Atom. You can
+directly transform data in and out of common web API formats such as base 64
+and url encoding, or pretty print JSON directly in the HTTP response.
+Such fun!
