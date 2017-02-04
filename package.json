@@ -21,7 +21,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-message-panel": "^1.2.7",
     "atom-space-pen-views": "^2.2.0",
     "he": "^1.1.1",
     "js-base64": "^2.1.9",
