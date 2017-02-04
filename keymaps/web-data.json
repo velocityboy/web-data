@@ -1,4 +1,11 @@
 {
-  "atom-workspace": {
+  ".platform-darwin": {
+    "alt-shift-h h": "web-data:do-request",
+    "alt-shift-h j": "web-data:json-prettyprint",
+    "alt-shift-h q": "web-data:split-query-params",
+    "alt-shift-h u": "web-data:url-decode",
+    "alt-shift-h v": "web-data:url-encode",
+    "alt-shift-h 6": "web-data:base64-decode",
+    "alt-shift-h 4": "web-data:base64-encode"
   }
 }

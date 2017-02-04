@@ -13,4 +13,4 @@
 
 ## 0.5.0 - Nicer formatting for HTTP response data
 * Response data now presented in a formatted page, with buttons to do
-the transforms commonly used on body data
+the transforms commonly used on body data. Added key mappings on macOS.
