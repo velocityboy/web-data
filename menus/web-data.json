@@ -40,6 +40,10 @@
           "label": "Web Data",
           "submenu": [
             {
+              "label": "Execute HTTP request",
+              "command": "web-data:do-request"
+            },
+            {
               "label": "URL decode",
               "command": "web-data:url-decode"
             },
@@ -62,10 +66,6 @@
             {
               "label": "Split URL query parameters",
               "command": "web-data:split-query-params"
-            },
-            {
-              "label": "Execute HTTP request",
-              "command": "web-data:do-request"
             }
           ]
         }
