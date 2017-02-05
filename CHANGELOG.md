@@ -14,3 +14,7 @@
 ## 0.5.0 - Nicer formatting for HTTP response data
 * Response data now presented in a formatted page, with buttons to do
 the transforms commonly used on body data. Added key mappings on macOS.
+
+## 0.6.0 - Style rework
+* Redo styling of response page to make it easier to read
+* Translate HTTP status codes to text and color code them
