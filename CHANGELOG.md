@@ -18,3 +18,6 @@ the transforms commonly used on body data. Added key mappings on macOS.
 ## 0.6.0 - Style rework
 * Redo styling of response page to make it easier to read
 * Translate HTTP status codes to text and color code them
+
+## 0.7.0 - Display images
+* Display images as images rather than binary character data
