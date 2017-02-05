@@ -2,7 +2,7 @@
   "name": "web-data",
   "main": "./lib/web-data",
   "version": "0.7.0",
-  "description": "Conversions between common web data formats",
+  "description": "Make HTTP requests from inside Atom",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
