@@ -1,7 +1,7 @@
 {
   "name": "web-data",
   "main": "./lib/web-data",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Make HTTP requests from inside Atom",
   "keywords": [],
   "activationCommands": {
